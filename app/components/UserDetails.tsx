@@ -8,13 +8,12 @@ export default function UserDetails() {
         </div>
         <div className={'user-info-det'}>
           <div className='user-name-row'>
-            <span className='user-name'>William Sample</span>
+            <span className='user-name'>William</span>
             <div className='user-socials'>
               <i className="bx bxl-facebook"></i>
               <i className="bx bxl-twitter"></i>
               <i className="bx bxl-linkedin"></i>
               <i className="bx bx-globe"></i>
-              <i className="bx bx-dots-horizontal-rounded"></i>
             </div>
           </div>
           <div className='user-title-row'>
@@ -28,6 +27,12 @@ export default function UserDetails() {
         <button className={'contact-linked-btn'}>Contact Linked</button>
         <button className={'star-btn'}>
           <i className="bx bx-star"></i>
+        </button>
+        <button className={'star-btn'}>
+          <i className="bx bx-edit"></i>
+        </button>
+        <button className={'star-btn'}>
+          <i className="bx bx-dots-vertical-rounded"></i>
         </button>
       </div>
     </div>

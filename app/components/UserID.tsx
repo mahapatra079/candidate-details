@@ -5,9 +5,9 @@ export default function UserID() {
         <div className="breadcrumb-section">
           <div className="breadcrumb">
             <a href="#" className="breadcrumb-link">Candidates</a>
-            <span className="breadcrumb-separator">›</span>
+            <i className="bx bx-chevron-right"></i>
             <span className="current-user">
-              Robert Hardy
+              William
               <span className="user-id">ID - 231</span>
             </span>
           </div>

@@ -17,8 +17,8 @@ export default function UserDetailsInfo() {
         <li className="user-tab">Contact(s) Pitched</li>
       </ul>
       <div className="user-assigned">
-        <span>
-          Assigned Job to <span style={{ color: "#1976d2" }}>William Sample</span>
+        <span className="user-assigned-info">
+          Assigned Job to <span className="user-name">William</span>
         </span>
         <div className={"user-details-actions"}>
           <button className={"user-details-btn"}>Assign To Job</button>
@@ -36,7 +36,7 @@ export default function UserDetailsInfo() {
         </div>
         <div className="job-meta">
           <span>
-            <i className="bx bx-user"></i> William Sample
+            <i className="bx bx-user"></i> William
           </span>
           <span>
             <i className="bx bx-time"></i> Jul 10, 2023

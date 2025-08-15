@@ -5,7 +5,7 @@ export default function UserContact() {
       <div className="crm-d-flex">
         <div className={'contact-item emai'}>
           <i className="bx bx-envelope"></i>
-          <a href="mailto:williamsample@gmail.com">williamsample@gmail.com</a>
+          <a href="mailto:william@gmail.com">william@gmail.com</a>
         </div>
         <div className={'contact-item phone'}>
           <i className="bx bx-phone"></i>
@@ -15,7 +15,7 @@ export default function UserContact() {
       <div className="crm-d-flex">
         <div className={'contact-item name'}>
           <i className="bx bx-user"></i>
-          Phyllis Yang
+          William
         </div>
         <div className={'contact-item time'}>
           <i className="bx bx-time"></i>
