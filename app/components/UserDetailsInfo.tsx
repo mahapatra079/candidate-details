@@ -31,7 +31,7 @@ export default function UserDetailsInfo() {
           <div className="job-avatar">M</div>
           <div className="job-info">
             <span className="job-title">Senior Product Manager</span>
-            <span className="job-company">Recruit CRM</span>
+            <span className="job-company">Candidate Details</span>
           </div>
         </div>
         <div className="job-meta">
